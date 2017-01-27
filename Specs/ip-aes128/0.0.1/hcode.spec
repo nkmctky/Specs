@@ -1,16 +1,16 @@
 {
-  "name": "ip-mergesorter",
+  "name": "ip-aes128",
   "type": "ip",
   "version": "0.0.1",
   "summary": "A 128bit AES encryptor IP.",
   "description": "An AES encryptor IP.",
-  "homepage": "https://github.com/nkmctky/ip-acc128/",
+  "homepage": "https://github.com/nkmctky/ip-aes128/",
   "license": "MIT",
   "authors": {
     "nkmctky": "nkmctky@arch.cs.kumamoto-u.ac.jp"
   },
   "source": {
-    "git": "https://github.com/nkmctky/ip-acc128.git",
+    "git": "https://github.com/nkmctky/ip-aes128.git",
     "tag": "0.0.1"
   },
   "interfaces": {
